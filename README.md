@@ -29,3 +29,10 @@ Puedes instalar los requerimientos ejecutando:
 ```bash
 pip install -r requirements.txt
 
+
+# Enlace a la Aplicación en Render
+
+La aplicación web está disponible en el siguiente enlace:
+
+[https://proyecto7-gg.onrender.com](https://proyecto7-gg.onrender.com)
+
